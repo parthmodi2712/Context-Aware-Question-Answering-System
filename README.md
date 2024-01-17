@@ -3,7 +3,7 @@ Develop a Python-based system that, given a document, can respond to user querie
 
 This repository contains implementations of some of the most important papers for Question Answering. The implementations are in the form of tutorials and are roughly annotations of the said papers. This repository might be helpful for those who know the basics of deep learning and NLP, want to get started with reading slightly complex papers and see how they are implemented. This repository also assumes some familiarity with PyTorch basics, although I have tried my best to break everything down in simple terms.
 
-**In My program I given textfile of Sport Cricket details and based on that I asked the question and program give answer from document.Currently My programe take Document which is file has ".txt" format.**
+**In My program I given textfile of Sport Cricket details and based on that I asked the question and program give answer from document.Currently My programe take Document which is file has ".txt" format.There is Question list for CricketData which contains the questions about CricketData Documents.And this Programe accepts only 500 words as input document and  If you want more than that you just need to Change value in max_len**
 
 # PyTorch
 PyTorch is a fully featured framework for building deep learning models, which is a type of machine learning that's commonly used in applications like image recognition and language processing. Written in Python, it's relatively easy for most machine learning developers to learn and use.
@@ -24,6 +24,9 @@ Next sentence prediction (NSP): the models concatenates two masked sentences as 
 ![assignment_2](https://github.com/parthmodi2712/Context-Aware-Question-Answering-System/assets/69354693/cef5c5db-7fb1-4b6b-8e5e-d5405ca11ffc)
 
 ![assignment_3](https://github.com/parthmodi2712/Context-Aware-Question-Answering-System/assets/69354693/f4af4307-29e2-411a-a712-8d7342eeb864)
+
+![assignment_4](https://github.com/parthmodi2712/Context-Aware-Question-Answering-System/assets/69354693/d025b303-e95f-4958-9091-304cb32233d3)
+
 
 ![assignment_4](https://github.com/parthmodi2712/Context-Aware-Question-Answering-System/assets/69354693/22af3670-b508-4f28-b23a-919a6a442338)
 

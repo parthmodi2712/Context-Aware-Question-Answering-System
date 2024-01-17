@@ -1,0 +1,12 @@
+Question list for CricketData
+
+1 which nation play cricket
+2 what is england nation summer sport
+3 howmuch wide is pitch
+4 what is wicket
+5 what is shape bat is
+6 what us bails
+7 what is length of bat
+8 what is defending
+9 what is innings
+10 what is ball made of
